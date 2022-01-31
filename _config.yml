@@ -58,8 +58,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Arkouda research Group"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Arkouda Research Group"
+  avatar : "/assets/images/arkouda_wide_marker1-modified.png"
   bio    : "High Performance Algorithms for Interactive Data Science at Scale"
   links:
     - label: "Website"

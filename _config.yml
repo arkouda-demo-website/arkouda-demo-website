@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Arkouda Research Group"
-  avatar : "/assets/images/arkouda_wide_marker1-modified.png"
+  avatar : "/assets/images/arkouda_wide_marker1-modified-removebg-preview.png"
   bio    : "High Performance Algorithms for Interactive Data Science at Scale"
   links:
     - label: "Website"

@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Arkouda research Group"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "High Performance Algorithms for Interactive Data Science at Scale"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -74,6 +74,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Discord"
+      icon: "fab fa-discord"
+      url: "https://instagram.com/"
+
 
 footer:
   links:

@@ -77,6 +77,9 @@ author:
     - label: "Discord"
       icon: "fab fa-discord"
       url: "https://instagram.com/"
+    - label: "Gitter"
+      icon: "fab fa-gitter"
+      url: "https://instagram.com/"
 
 
 footer:
@@ -117,3 +120,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+

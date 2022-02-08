@@ -78,7 +78,7 @@ author:
       icon: "fab fa-discord"
       url: "https://instagram.com/"
     - label: "Gitter"
-      icon: "fa-regular fa-message"
+      icon: "fa-note-sticky"
       url: "https://instagram.com/"
 
 footer:

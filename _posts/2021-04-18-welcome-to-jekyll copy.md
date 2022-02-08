@@ -1,5 +1,6 @@
 ---
 title: "Large Scale String Analytics In Arkouda. IEEE HPEC."
+authors: "XYZ"
 date: 2021-04-18T15:34:30-04:00
 categories:
   - blog

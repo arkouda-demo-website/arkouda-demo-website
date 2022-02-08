@@ -2,13 +2,15 @@
 title: "Large Scale String Analytics In Arkouda. IEEE HPEC."
 date: 2021-09-18T15:34:30-04:00
 categories:
-  - blog
+  - Publications
 tags:
   - large scale string sets
   - Arkouda
 ---
 #### Authors
+<p align="justify">
 Zhihui Du, Oliver Alvarado Rodriguez, and David A. Bader
+</p>
 
 #### Abstract
 <p align="justify">

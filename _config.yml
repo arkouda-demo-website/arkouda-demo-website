@@ -121,5 +121,5 @@ tag_archive:
   path: /tags/
 people_page:
   type: liquid
-  path: /tags/
+  path: "_people"
 

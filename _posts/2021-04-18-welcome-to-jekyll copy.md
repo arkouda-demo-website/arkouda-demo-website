@@ -21,8 +21,8 @@ Large scale data sets from the web, social networks, and bioinformatics are wide
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| ![avatar](shorturl.at/ikoyM)  | ![avatar](shorturl.at/douwE) |
-| Content Cell  | Content Cell  |
+| ![avatar](https://davidbader.net/authors/alvaradorodriguez-oliver/avatar_hu8ae89edcfb38e4a2c4f82e57e9d9544c_414069_270x270_fill_q90_lanczos_center.jpg)  | ![avatar](shorturl.at/douwE) |
+| Content Cell1  | Content Cell  |
 
 
 

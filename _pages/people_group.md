@@ -8,7 +8,6 @@ title: "People"
 
 <div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
 <p style='padding:0.7em; margin-left:0.5em; display: inline-block;'>
-<a href="https://www.linkedin.com/in/oliver-alvarado-rod/" target="_blank" rel="noopener">
 <b>The team comprises of members ranging from graduate students, PhD students to Research Scientists</b>   
 </p>
 </div>

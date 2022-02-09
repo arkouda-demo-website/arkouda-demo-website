@@ -20,6 +20,8 @@ title: "People"
 <b>Oliver Alvarado Rodriguez</b>
 Hi my name is xyz
 <br>
+<a href="https://www.linkedin.com/in/oliver-alvarado-rod/" target="_blank" rel="noopener">
+<i class="fab fa-linkedin"></i>
 </p>
 </a>
 </div>

@@ -37,3 +37,7 @@ title: "People"
 <b>isomorphism</b>  &rarr;  In mathematics, an isomorphism is a structure-preserving mapping between two structures of the same type that can be reversed by an inverse mapping.<br>
 </p>
 </div>
+
+
+|    Member Picture   |   Member Details   | 
+| ![avatar](https://davidbader.net/authors/alvaradorodriguez-oliver/avatar_hu8ae89edcfb38e4a2c4f82e57e9d9544c_414069_270x270_fill_q90_lanczos_center.jpg) | Introduction <br> oliver <br> |

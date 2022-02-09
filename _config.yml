@@ -119,7 +119,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-people_page:
+people_group:
   type: liquid
-  path: "_people"
+  path: /people/
+
 

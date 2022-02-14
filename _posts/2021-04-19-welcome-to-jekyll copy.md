@@ -1,5 +1,5 @@
 ---
-title: "Large Scale String Analytics In Arkouda. IEEE HPEC."
+title: "Enabling Exploratory Large Scale Graph Analytics through Arkouda"
 date: 2021-09-18T15:34:30-04:00
 categories:
   - Publications

@@ -8,7 +8,8 @@ title: "People"
 <p style='padding:0.7em; margin-left:0.5em; display: inline-block;'>
 <b>David A. Bader</b> 
 <br>  
-<br>Distinguished Professor and Director of the Institute for Data Science
+<br>Distinguished Professor  
+<br>Director of the Institute for Data Science
 <br>New Jersey Institute of Technology<br>
 <a href="https://www.linkedin.com/in/oliver-alvarado-rod/" target="_blank" rel="noopener">
 <i class="fab fa-linkedin"></i>
@@ -25,7 +26,6 @@ title: "People"
 <b>Zhihui Du</b> 
 <br>  
 <br>Research Scientist
-<br><br>
 <a href="https://www.linkedin.com/in/oliver-alvarado-rod/" target="_blank" rel="noopener">
 <i class="fab fa-linkedin"></i>
 </a>

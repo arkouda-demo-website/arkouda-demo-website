@@ -5,7 +5,7 @@ categories:
   - Publications
 tags:
   - large scale string sets
-  - Arkouda
+  - arkouda
 ---
 #### Authors
 <p align="justify">

@@ -99,9 +99,9 @@ title: "People"
 <br>
 
 <div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
-<img  src="https://davidbader.net/authors/li-fuhuan/avatar_hu06b08d0b5652809328fedc854a407cb8_682321_270x270_fill_lanczos_center_3.png" style="zoom:70%;  float:left; padding:0.7em" />
+<img  src="https://ca.slack-edge.com/T0187UK5YS1-U02JSL541JS-23cf5c585092-192" style="zoom:70%;  float:left; padding:0.7em" />
 <p style='padding:0.7em; margin-left:0.5em; display: inline-block;'>
-<b>Naren Khatwanit</b> 
+<b>Naren Khatwani</b> 
 <br>  
 <br>Graduate Student
 <br>New Jersey Institute of Technology<br>
@@ -115,7 +115,7 @@ title: "People"
 <br>
 
 <div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
-<img  src="https://davidbader.net/authors/li-fuhuan/avatar_hu06b08d0b5652809328fedc854a407cb8_682321_270x270_fill_lanczos_center_3.png" style="zoom:70%;  float:left; padding:0.7em" />
+<img  src="https://ca.slack-edge.com/T0187UK5YS1-U02KC0H4QLR-0cfc716919da-512" style="zoom:70%;  float:left; padding:0.7em" />
 <p style='padding:0.7em; margin-left:0.5em; display: inline-block;'>
 <b>Rajendra Prasad Patil</b> 
 <br>  

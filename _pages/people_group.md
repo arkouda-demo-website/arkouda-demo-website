@@ -10,7 +10,6 @@ title: "People"
 <br>  
 <br>Distinguished Professor,  
 <br>Director of the Institute for Data Science
-<br>New Jersey Institute of Technology<br>
 <a href="https://www.linkedin.com/in/oliver-alvarado-rod/" target="_blank" rel="noopener">
 <i class="fab fa-linkedin"></i>
 </a>

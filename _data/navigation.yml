@@ -6,6 +6,8 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "People"
-    url: /people_group/  
+    url: /people_group/
+  - title: "Resources"
+    url: /resources_page/  
   - title: "About"
     url: /about/

@@ -7,7 +7,7 @@ tags:
   - large scale string sets
   - arkouda
 ---
-#### Authors
+#### Authors:
 <p align="justify">
 Zhihui Du, Oliver Alvarado Rodriguez, and David A. Bader
 </p>

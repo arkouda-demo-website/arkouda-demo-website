@@ -10,7 +10,7 @@ title: "People"
 <br>  
 <br>Distinguished Professor,  
 <br>Director of the Institute for Data Science<br>
-<a href="https://www.linkedin.com/in/oliver-alvarado-rod/" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/in/dbader13/" target="_blank" rel="noopener">
 <i class="fab fa-linkedin"></i>
 </a>
 <br>
@@ -25,11 +25,11 @@ title: "People"
 <b>Zhihui Du</b> 
 <br>  
 <br>Research Scientist
-<br>
-<a href="https://www.linkedin.com/in/oliver-alvarado-rod/" target="_blank" rel="noopener">
+<br>New Jersey Institute of Technology<br>
+<a href="https://www.linkedin.com/in/zhihui-du-5162a99/" target="_blank" rel="noopener">
 <i class="fab fa-linkedin"></i>
 </a>
-<br><br>
+<br>
 </p>
 </div>
 
@@ -42,7 +42,7 @@ title: "People"
 <br>  
 <br>Business Manager
 <br>New Jersey Institute of Technology<br>
-<a href="https://www.linkedin.com/in/oliver-alvarado-rod/" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/in/selenny-fabre-mpa-14ba203a/" target="_blank" rel="noopener">
 <i class="fab fa-linkedin"></i>
 </a>
 <br>
@@ -57,7 +57,7 @@ title: "People"
 <br>  
 <br>PhD Student
 <br>New Jersey Institute of Technology<br>
-<a href="https://www.linkedin.com/in/oliver-alvarado-rod/" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/in/fuhuan-li/" target="_blank" rel="noopener">
 <i class="fab fa-linkedin"></i>
 </a>
 <br>
@@ -89,7 +89,7 @@ title: "People"
 <br>  
 <br>Graduate Student
 <br>New Jersey Institute of Technology<br>
-<a href="https://www.linkedin.com/in/oliver-alvarado-rod/" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/in/joe-patchett/" target="_blank" rel="noopener">
 <i class="fab fa-linkedin"></i>
 </a>
 <br>
@@ -105,7 +105,7 @@ title: "People"
 <br>  
 <br>Graduate Student
 <br>New Jersey Institute of Technology<br>
-<a href="https://www.linkedin.com/in/oliver-alvarado-rod/" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/in/naren-khatwani-b05415181/" target="_blank" rel="noopener">
 <i class="fab fa-linkedin"></i>
 </a>
 <br>
@@ -121,7 +121,7 @@ title: "People"
 <br>  
 <br>Graduate Student
 <br>New Jersey Institute of Technology<br>
-<a href="https://www.linkedin.com/in/oliver-alvarado-rod/" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/in/rajendra7406/" target="_blank" rel="noopener">
 <i class="fab fa-linkedin"></i>
 </a>
 <br>

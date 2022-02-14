@@ -80,10 +80,53 @@ title: "People"
 </p>
 </div>
 
+### Graduate Students
+
+<div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
+<img  src="https://davidbader.net/authors/li-fuhuan/avatar_hu06b08d0b5652809328fedc854a407cb8_682321_270x270_fill_lanczos_center_3.png" style="zoom:70%;  float:left; padding:0.7em" />
+<p style='padding:0.7em; margin-left:0.5em; display: inline-block;'>
+<b>Joe Patchett</b> 
+<br>  
+<br>Graduate Student
+<br>New Jersey Institute of Technology<br>
+<a href="https://www.linkedin.com/in/oliver-alvarado-rod/" target="_blank" rel="noopener">
+<i class="fab fa-linkedin"></i>
+</a>
+<br>
+</p>
+</div>
+
 <br>
 
+<div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
+<img  src="https://davidbader.net/authors/li-fuhuan/avatar_hu06b08d0b5652809328fedc854a407cb8_682321_270x270_fill_lanczos_center_3.png" style="zoom:70%;  float:left; padding:0.7em" />
+<p style='padding:0.7em; margin-left:0.5em; display: inline-block;'>
+<b>Naren Khatwanit</b> 
+<br>  
+<br>Graduate Student
+<br>New Jersey Institute of Technology<br>
+<a href="https://www.linkedin.com/in/oliver-alvarado-rod/" target="_blank" rel="noopener">
+<i class="fab fa-linkedin"></i>
+</a>
+<br>
+</p>
+</div>
 
+<br>
 
+<div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
+<img  src="https://davidbader.net/authors/li-fuhuan/avatar_hu06b08d0b5652809328fedc854a407cb8_682321_270x270_fill_lanczos_center_3.png" style="zoom:70%;  float:left; padding:0.7em" />
+<p style='padding:0.7em; margin-left:0.5em; display: inline-block;'>
+<b>Rajendra Prasad Patil</b> 
+<br>  
+<br>Graduate Student
+<br>New Jersey Institute of Technology<br>
+<a href="https://www.linkedin.com/in/oliver-alvarado-rod/" target="_blank" rel="noopener">
+<i class="fab fa-linkedin"></i>
+</a>
+<br>
+</p>
+</div>
 
 
 

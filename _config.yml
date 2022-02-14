@@ -64,22 +64,22 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://bears-r-us.github.io/arkouda/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/Prof_DavidBader"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Bears-R-Us/arkouda"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/dbader13/"
     - label: "Discord"
       icon: "fab fa-discord"
-      url: "https://instagram.com/"
+      url: "https://discord.gg/2TxSbBRz"
     - label: "Arkouda Gitter Channel"
       icon: "fas fa-fw fa-link"
-      url: "https://instagram.com/"
+      url: "https://gitter.im/ArkoudaProject/community"
 
 footer:
   links:

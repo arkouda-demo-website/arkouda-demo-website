@@ -115,7 +115,7 @@ title: "People"
 <br>
 
 <div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
-<img  src="https://ca.slack-edge.com/T0187UK5YS1-U02KC0H4QLR-0cfc716919da-512" style="zoom:70%;  float:left; padding:0.7em" />
+<img  src="/display_pictures/Naren_Khatwani.png" style="zoom:70%;  float:left; padding:0.7em" />
 <p style='padding:0.7em; margin-left:0.5em; display: inline-block;'>
 <b>Rajendra Prasad Patil</b> 
 <br>  

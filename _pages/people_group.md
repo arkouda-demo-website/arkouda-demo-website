@@ -4,7 +4,7 @@ title: "People"
 ---
 
 <div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
-<img  src="https://davidbader.net/authors/admin/avatar_hu467bff5a4a8e196f6bcbcd380ff8250b_6318_270x270_fill_q90_lanczos_center.jpg" style="zoom:70%;  float:left; padding:0.7em" />
+<img  src="/display_pictures/david_bader.jpeg" style="zoom:70%;  float:left; padding:0.7em" />
 <p style='padding:0.7em; margin-left:0.5em; display: inline-block;'>
 <b>David A. Bader</b> 
 <br>  
@@ -20,7 +20,7 @@ title: "People"
 ### Staff
 
 <div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
-<img  src="https://davidbader.net/authors/du-zhihui/avatar_hub0273595c1f3255feccabb80e8fc4a8a_36806_270x270_fill_q90_lanczos_center.jpg" style="zoom:70%;  float:left; padding:0.7em" />
+<img  src="/display_pictures/zihui_du.jpeg" style="zoom:70%;  float:left; padding:0.7em" />
 <p style='padding:0.7em; margin-left:0.5em; display: inline-block;'>
 <b>Zhihui Du</b> 
 <br>  

@@ -11,5 +11,5 @@ main:
     url: /resources_page/  
   - title: "About"
     url: /about/
-  - title: "Event Name"
+  - title: "Upcoming Events"
     url: /event/

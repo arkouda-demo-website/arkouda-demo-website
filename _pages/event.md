@@ -18,7 +18,7 @@ Room - Will be updated soon
 
 #### Register Here
 
-***Form Link*** - Click Here 
+***Form Link*** - [Click Here](https://forms.gle/yqtGWkmnV3Y6CK8M8) 
 
 ***Group Restrictions*** - Individual Participants or groups with upto 3 members are allowed.
 

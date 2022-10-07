@@ -18,11 +18,11 @@ Room - Will be updated soon
 
 #### Register Here
 
-Form Link - Click Here 
+***Form Link*** - Click Here 
 
-Group Restrictions - Individual Participants or groups with upto 3 members are allowed.
+***Group Restrictions*** - Individual Participants or groups with upto 3 members are allowed.
 
-Eligible Students- Anyone student from Undergraduate, Graduate or PhD program can participate
+***Eligible Students*** - Any student from Undergraduate, Graduate or PhD program can participate.
 
 #### Speakers for the event
 

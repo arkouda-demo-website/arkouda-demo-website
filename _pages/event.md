@@ -3,7 +3,7 @@ title: "Event Page"
 permalink: /event/
 ---
 
-Hello folks 👋, 
+Hello folks 👋 , 
 The following is the list for upcoming event by the NJIT HPC Initiative.
 
 ### Parallel Computing in Chapel: An Introduction and mini Hack-a-Thon event
